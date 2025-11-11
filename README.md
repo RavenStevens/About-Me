@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raven Stevens
-- 👀 I enjoy wirewrapping, playing paino, and videogames. 
-- 🌱 I’m currently learning how to use PowerBi, now that I have finished the Google Data Analytics Course.
+- 👀 I enjoy wirewrapping, playing recorder, and being outdoors. 
+- 🌱 I’m currently working on my Associates in Data Analytics.
 - 🏢 I'm currently looking for work as a Data Analysis.
 - 📫 How to reach me upsettyyetti@gmail.com
 
